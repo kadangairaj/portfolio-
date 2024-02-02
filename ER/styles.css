@@ -1,0 +1,15 @@
+body{
+    font-family:  'Oswald', sans-serif;
+}
+.ban{
+    background-image: url(bg1.jpg);
+    background-size: cover;
+    background-repeat: no-repeat ;
+    padding: 170px 0;
+}
+.skills-pad{
+    padding: 60px 0 ;
+}
+html{
+    scroll-behavior: smooth;
+}
